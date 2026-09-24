@@ -124,3 +124,77 @@ Ejemplo: Hacer clic en un botón puede provocar que el programa guarde informaci
 
 ---
 
+Compilador: 
+Es un programa que traduce el código fuente escrito por el programador a otro lenguaje de menor nivel, como código máquina, para que pueda ser ejecutado por la computadora. 
+Ejemplo: Un programa escrito en Python y después traducido a código binario.
+2.	Intérprete:
+Es un programa que traduce y ejecuta las instrucciones de un código durante la ejecución, permitiendo que la computadora pueda realizar las acciones indicadas.
+Ejemplo: Un intérprete puede leer una instrucción de Python, ejecutarla y después continuar con la siguiente instrucción.
+3.	Depurador (Debugger):
+Es una herramienta que permite encontrar y analizar errores en un programa. Ayuda al programador a revisar cómo se ejecuta el código y observar los valores de las variables.
+Ejemplo: Si un programa muestra un resultado incorrecto, el programador puede utilizar un debugger para revisar paso a paso dónde se produce el error.
+4.	IDE (Entorno de Desarrollo Integrado):
+Es un programa que reúne diferentes herramientas para desarrollar software, como un editor de código, herramientas para ejecutar programas y funciones para encontrar errores.
+Ejemplo: Visual Studio es un IDE que permite escribir código, ejecutarlo y buscar errores desde una misma aplicación.
+5.	Editor de código:
+Es un programa que permite escribir, modificar y organizar el código fuente de un programa. También puede ofrecer herramientas que facilitan la escritura del código.
+Ejemplo: Visual Studio Code puede utilizarse para escribir y modificar programas en JavaScript.
+6.	Biblioteca (Library):
+Es un conjunto de código que contiene funciones y otros recursos que pueden ser utilizados en un programa. Permite aprovechar código que ya fue creado en lugar de hacerlo desde cero.
+Ejemplo: Un programador puede utilizar una biblioteca matemática para realizar cálculos sin tener que programar cada operación por separado.
+7.	Framework:
+Es una estructura que proporciona herramientas y una forma organizada de desarrollar aplicaciones. Ayuda al programador a crear un proyecto siguiendo determinadas reglas y utilizando funciones que ya están preparadas.
+Ejemplo: Un framework para páginas web puede proporcionar una estructura para crear una aplicación y organizar sus diferentes partes.
+8.	API:
+Es una interfaz que permite que diferentes programas o componentes se comuniquen entre sí. Define la forma en que un programa puede solicitar información o utilizar funciones de otro software.
+Ejemplo: Una aplicación del clima puede utilizar una API para solicitar la temperatura de una ciudad y mostrarla al usuario.
+9.	Repositorio:
+Es un espacio donde se almacenan los archivos de un proyecto y la información relacionada con los cambios que se han realizado. Permite organizar y conservar diferentes versiones de un proyecto.
+Ejemplo: Un proyecto de una página web puede tener un repositorio donde se guarden sus archivos HTML, CSS y JavaScript.
+10.	Control de versiones:
+Es un sistema que permite registrar los cambios realizados en los archivos de un proyecto. También permite consultar versiones anteriores y saber cómo ha evolucionado el proyecto.
+Ejemplo: Si un programador modifica un archivo y posteriormente necesita recuperar una versión anterior, puede utilizar un sistema de control de versiones.
+11.	Git:
+Es un sistema de control de versiones que permite registrar los cambios realizados en un proyecto y trabajar con diferentes versiones del código.
+Ejemplo: Un estudiante puede utilizar Git para guardar los avances de su proyecto y consultar cambios realizados anteriormente.
+12.	GitHub:
+Es una plataforma que permite almacenar repositorios y colaborar en proyectos de programación. Utiliza Git para administrar los cambios realizados en los archivos.
+Ejemplo: Un grupo de estudiantes puede utilizar GitHub para guardar un proyecto y compartirlo entre sus integrantes.
+13.	Rama (Branch):
+Es una línea de trabajo independiente dentro de un proyecto. Permite realizar modificaciones o desarrollar nuevas funciones sin afectar directamente otra rama.
+Ejemplo: Un programador puede crear una rama llamada “login” para desarrollar el inicio de sesión de una aplicación.
+14.	Commit:
+Es un registro de los cambios realizados en un proyecto en un momento determinado. Generalmente incluye un mensaje que permite identificar qué modificación se realizó.
+Ejemplo: Después de agregar una nueva función a un programa, el programador puede realizar un commit con el mensaje “Agregar función de búsqueda”.
+15.	Merge:
+Es el proceso de combinar los cambios realizados en una rama con otra rama del proyecto. Se utiliza para integrar diferentes partes del trabajo.
+Ejemplo: Un programador puede realizar un merge para incorporar a la rama principal una función que terminó de desarrollar en otra rama.
+16.	Callback:
+Es una función que se proporciona a otra función para que sea ejecutada posteriormente, cuando se cumpla determinada acción o termine una operación.
+Ejemplo: Una página web puede utilizar un callback para mostrar un mensaje después de que una operación haya terminado.
+17.	Programación síncrona:
+Es una forma de programación en la que una tarea debe terminar antes de que el programa continúe con la siguiente. Por esta razón, las instrucciones se ejecutan siguiendo un orden.
+Ejemplo: Un programa realiza un cálculo y espera a obtener el resultado antes de comenzar el siguiente cálculo.
+18.	Programación asíncrona:
+Es una forma de programación que permite que el programa continúe realizando otras tareas mientras espera que termine una operación.
+Ejemplo: Una página web puede solicitar información a un servidor y continuar realizando otras acciones mientras espera la respuesta.
+19.	JavaScript:
+Es un lenguaje de programación utilizado principalmente para agregar funciones e interactividad a las páginas web. Permite crear elementos que reaccionan a las acciones del usuario.
+Ejemplo: JavaScript puede utilizarse para hacer que un botón muestre un mensaje cuando el usuario haga clic sobre él.
+20.	TypeScript:
+Es un lenguaje basado en JavaScript que agrega un sistema de tipos para ayudar a detectar posibles errores en el código. Permite especificar qué tipo de dato debe utilizar una variable.
+Ejemplo: En TypeScript se puede indicar que una variable debe contener un número para evitar que se utilice accidentalmente como texto.
+
+---
+
+
+
+
+
+
+
+
+https://repositorio-uapa.cuaed.unam.mx/repositorio/moodle/pluginfile.php/2710/mod_resource/content/1/UAPA-Construyendo-Algoritmos/index.html 
+https://www.bunam.unam.mx/intComputacion/indexr.html 
+https://www.lenovo.com/mx/es/glosario/programa/?srsltid=AfmBOorEDPA5SqPcYCV_-gIQH6uDV702DC7HcN-TNcmp2nKU8Ec1xP9A 
+https://iutamaracay.com.ve/iuta_webpage/archivos/Fundamentos%20de%20programaci%C3%B3n%2C%204ta%20Edici%C3%B3n%20-%20Luis%20Joyanes%20Aguilar-FREELIBROS.ORG.pdf 
